@@ -6,10 +6,10 @@ To manually update files, cache must me purged for specific files.
 
 Follow instructions below to manually update files...
 
-Purge URL: https://purge.jsdelivr.net/gh/spotcare/app@latest
+Purge URL: https://purge.jsdelivr.net/gh/apothefy/assets@latest
 
-File URL: [/images/logo/favicon.svg](/images/logo/favicon.svg)
+File URL: [icons/logo-1500-dark.png](icons/logo-1500-dark.png)
 
 1. Go to: "Purge URL" + "File URL"
-2. https://purge.jsdelivr.net/gh/spotcare/app@latest/images/logo/favicon.svg
+2. https://purge.jsdelivr.net/gh/apothefy/assets@latest/icons/logo-1500-dark.png
 3. Replace "purge" with "cdn" in above url to view updated file.
